@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-first steps into github
+Hi guys !
+
+My name is Veselin Kirev and I am a newbie here.
